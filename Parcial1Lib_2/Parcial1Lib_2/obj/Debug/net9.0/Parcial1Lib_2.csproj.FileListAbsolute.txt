@@ -1,0 +1,11 @@
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\bin\Debug\net9.0\Parcial1Lib_2.deps.json
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\bin\Debug\net9.0\Parcial1Lib_2.dll
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\bin\Debug\net9.0\Parcial1Lib_2.pdb
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\Parcial1Lib_2.GeneratedMSBuildEditorConfig.editorconfig
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\Parcial1Lib_2.AssemblyInfoInputs.cache
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\Parcial1Lib_2.AssemblyInfo.cs
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\Parcial1Lib_2.csproj.CoreCompileInputs.cache
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\Parcial1Lib_2.dll
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\refint\Parcial1Lib_2.dll
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\Parcial1Lib_2.pdb
+B:\Materias usfx\1.- Informática\1 - 2025\sis457\sis457_2025_1_1erParcial\Parcial1Lib_2\Parcial1Lib_2\obj\Debug\net9.0\ref\Parcial1Lib_2.dll
